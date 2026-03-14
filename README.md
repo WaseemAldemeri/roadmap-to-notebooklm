@@ -32,7 +32,7 @@ roadmap.sh GitHub repo
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/roadmap-extractor.git
+git clone https://github.com/WaseemAldemeri/roadmap-to-notebooklm.git
 cd roadmap-extractor
 ```
 
