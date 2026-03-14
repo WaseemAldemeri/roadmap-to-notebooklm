@@ -1,5 +1,5 @@
 .venv
+__pycache__
 .claude
 CLAUDE.md
-github_extracted_backend_resources.json
-Backend_Context_Files
+*Context_Files

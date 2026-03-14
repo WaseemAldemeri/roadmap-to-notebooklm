@@ -1,10 +1,7 @@
 import requests
 import json
 import re
-
-# Direct URLs to the GitHub repository resources
-ROADMAP_JSON_URL = "https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/src/data/roadmaps/backend/backend.json"
-GITHUB_API_CONTENT_URL = "https://api.github.com/repos/kamranahmedse/developer-roadmap/contents/src/data/roadmaps/backend/content"
+from config import ROADMAP_JSON_URL, GITHUB_API_CONTENT_URL, RESOURCES_FILE
 
 def extract_links_from_md_text(content):
     """Parses markdown text to find [Title](URL) links."""
@@ -40,7 +37,7 @@ def extract_all_nodes(data):
     return nodes
 
 def main():
-    print("🚀 Fetching backend roadmap JSON...")
+    print("🚀 Fetching roadmap JSON...")
     json_response = requests.get(ROADMAP_JSON_URL)
     if json_response.status_code != 200:
         print("Error: Failed to fetch the roadmap JSON.")
@@ -94,12 +91,11 @@ def main():
                     })
                     print(f"  [+] Extracted {len(resources)} links for '{title}'")
 
-    output_file = 'github_extracted_backend_resources.json'
-    with open(output_file, 'w', encoding='utf-8') as f:
+    with open(RESOURCES_FILE, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, indent=4)
 
     print(f"\n✅ Done! Extracted resources for {len(final_data)} topics.")
-    print(f"Data saved to '{output_file}'.")
+    print(f"Data saved to '{RESOURCES_FILE}'.")
 
 if __name__ == "__main__":
     main()

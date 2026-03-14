@@ -2,19 +2,17 @@ import json
 import os
 import asyncio
 from notebooklm import NotebookLMClient
-
-INPUT_FILE = 'github_extracted_backend_resources.json'
-MD_FOLDER = 'Backend_Context_Files'
+from config import RESOURCES_FILE, CONTEXT_FILES_FOLDER, NOTEBOOK_PREFIX, ROADMAP_DISPLAY_NAME, ROADMAP_URL
 
 async def main():
-    if not os.path.exists(INPUT_FILE):
-        print(f"Error: Could not find {INPUT_FILE}")
+    if not os.path.exists(RESOURCES_FILE):
+        print(f"Error: Could not find {RESOURCES_FILE}")
         return
 
-    with open(INPUT_FILE, 'r', encoding='utf-8') as f:
+    with open(RESOURCES_FILE, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    os.makedirs(MD_FOLDER, exist_ok=True)
+    os.makedirs(CONTEXT_FILES_FOLDER, exist_ok=True)
 
     print(f"🚀 Preparing to create {len(data)} Notebooks. Connecting to NotebookLM...")
     
@@ -25,7 +23,7 @@ async def main():
             topic = item['topic']
             resources = item['resources']
             
-            notebook_title = f"Roadmap.sh Backend: {topic}"
+            notebook_title = f"{NOTEBOOK_PREFIX}: {topic}"
             
             print(f"\n[{index + 1}/{len(data)}] 📁 Creating Notebook: '{notebook_title}'")
             
@@ -36,12 +34,12 @@ async def main():
                 
                 # 2. Create the enriched local Markdown context file
                 safe_title = topic.replace('/', '-').replace(' ', '_')
-                md_path = os.path.join(MD_FOLDER, f"{safe_title}.md")
-                
-                # --- NEW ENRICHED MARKDOWN CONTEXT ---
-                md_content = f"""# Backend Developer Roadmap: {topic}
+                md_path = os.path.join(CONTEXT_FILES_FOLDER, f"{safe_title}.md")
 
-**Source:** [roadmap.sh/backend](https://roadmap.sh/backend)
+                # --- NEW ENRICHED MARKDOWN CONTEXT ---
+                md_content = f"""# {ROADMAP_DISPLAY_NAME} Developer Roadmap: {topic}
+
+**Source:** [{ROADMAP_URL}]({ROADMAP_URL})
 
 ## Context
 This notebook covers the fundamental concepts, articles, and video tutorials for mastering **{topic}** as part of a complete backend engineering curriculum. 
@@ -76,7 +74,7 @@ The resources ingested into this notebook are community-curated materials design
             except Exception as e:
                 print(f"❌ Error creating notebook for {topic}: {e}")
 
-    print("\n🎉 All done! Your backend roadmap is fully loaded into NotebookLM.")
+    print(f"\n🎉 All done! Your {ROADMAP_DISPLAY_NAME} roadmap is fully loaded into NotebookLM.")
 
 if __name__ == "__main__":
     asyncio.run(main())

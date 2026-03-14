@@ -1,0 +1,3767 @@
+[
+    {
+        "topic": "Search Engines",
+        "node_id": "gKTSe9yQFVbPVlLzWB0hC",
+        "resources": [
+            {
+                "title": "@official@Elasticsearch",
+                "url": "https://www.elastic.co/elasticsearch/",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Design and Development Principles",
+        "node_id": "9Fpoor-Os_9lvrwu5Zjh-",
+        "resources": [
+            {
+                "title": "@article@Design Principles - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Design_principles",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Design Principles - Microsoft",
+                "url": "https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Learn about APIs",
+        "node_id": "EwvLPSI6AlZ4TnNIJTZA4",
+        "resources": [
+            {
+                "title": "@roadmap@Visit the Dedicated API Design Roadmap",
+                "url": "https://roadmap.sh/api-design",
+                "type": "Article"
+            },
+            {
+                "title": "@roadmap@Visit the Dedicated API Security Best Practices",
+                "url": "https://roadmap.sh/api-security-best-practices",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is an API?",
+                "url": "https://aws.amazon.com/what-is/api/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is an API (in 5 minutes)",
+                "url": "https://www.youtube.com/watch?v=ByGJQzlzxQg",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@daily.dev API Feed",
+                "url": "https://app.daily.dev/tags/rest-api",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Internet",
+        "node_id": "SiYUdtYMDImRPmV2_XPkH",
+        "resources": [
+            {
+                "title": "@article@What is backend? A comprehensive intro to server-side development",
+                "url": "https://alokai.com/blog/what-is-backend",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is Back-End Architecture?",
+                "url": "https://www.codecademy.com/article/what-is-back-end-architecture",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Backend web development - a complete overview",
+                "url": "https://www.youtube.com/watch?v=XBu54nfzxAQ",
+                "type": "Video"
+            },
+            {
+                "title": "@video@How The Backend Works",
+                "url": "https://www.youtube.com/watch?v=4r6WdaY3SOA",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Rust",
+        "node_id": "CWwh2abwqx4hAxpAGvhIx",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated Rust Roadmap",
+                "url": "https://roadmap.sh/rust",
+                "type": "Article"
+            },
+            {
+                "title": "@official@The Rust Programming Language - Book",
+                "url": "https://doc.rust-lang.org/book/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Rust vs. Go: Why They\u2019re Better Together",
+                "url": "https://thenewstack.io/rust-vs-go-why-theyre-better-together/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Rust by the Numbers: The Rust Programming Language in 2021",
+                "url": "https://thenewstack.io/rust-by-the-numbers-the-rust-programming-language-in-2021/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Learn Rust Programming",
+                "url": "https://www.youtube.com/watch?v=BpPEoZW5IiY",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Rust",
+                "url": "https://app.daily.dev/tags/rust?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "PHP",
+        "node_id": "l9Wrq_Ad9-Ju4NIB0m5Ha",
+        "resources": [
+            {
+                "title": "@official@Visit Dedicated PHP Roadmap",
+                "url": "https://roadmap.sh/php",
+                "type": "Article"
+            },
+            {
+                "title": "@official@PHP",
+                "url": "https://php.net/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@PHP - The Right Way",
+                "url": "https://phptherightway.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@PHP for Beginners",
+                "url": "https://www.youtube.com/watch?v=zZ6vybT1HQs",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about PHP",
+                "url": "https://app.daily.dev/tags/php?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Go",
+        "node_id": "BdXbcz4-ar3XOX0wIKzBp",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated Go Roadmap",
+                "url": "https://roadmap.sh/golang",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Go Reference Documentation",
+                "url": "https://go.dev/doc/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Go by Example - annotated example programs",
+                "url": "https://gobyexample.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Go, the Programming Language of the Cloud",
+                "url": "https://thenewstack.io/go-the-programming-language-of-the-cloud/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Go Programming \u2013 Golang Course with Bonus Projects",
+                "url": "https://www.youtube.com/watch?v=un6ZyFkqFKo",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Golang",
+                "url": "https://app.daily.dev/tags/golang?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "JavaScript",
+        "node_id": "8-lO-v6jCYYoklEJXULxN",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated JavaScript Roadmap",
+                "url": "https://roadmap.sh/javascript",
+                "type": "Article"
+            },
+            {
+                "title": "@article@The Modern JavaScript Tutorial",
+                "url": "https://javascript.info/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Build 30 Javascript Projects in 30 days",
+                "url": "https://javascript30.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@JavaScript Crash Course for Beginners",
+                "url": "https://youtu.be/hdI2bqOjy3c?t=2",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about JavaScript",
+                "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Java",
+        "node_id": "ANeSwxJDJyQ-49pO2-CCI",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated Java Roadmap",
+                "url": "https://roadmap.sh/java",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Java Website",
+                "url": "https://www.java.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Complete Java course",
+                "url": "https://www.youtube.com/watch?v=xk4_1vDrzzo",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Java",
+                "url": "https://app.daily.dev/tags/java?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Python",
+        "node_id": "J_sVHsD72Yzyqb9KCIvAY",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated Python Roadmap",
+                "url": "https://roadmap.sh/python",
+                "type": "Article"
+            },
+            {
+                "title": "@course@Python Full Course for free",
+                "url": "https://www.youtube.com/watch?v=ix9cRaBkVe0",
+                "type": "Video"
+            },
+            {
+                "title": "@official@Python Website",
+                "url": "https://www.python.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Automate the Boring Stuff",
+                "url": "https://automatetheboringstuff.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@An Introduction to Python for Non-Programmers",
+                "url": "https://thenewstack.io/an-introduction-to-python-for-non-programmers/",
+                "type": "Article"
+            },
+            {
+                "title": "@feed@Explore top posts about Python",
+                "url": "https://app.daily.dev/tags/python?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "C#",
+        "node_id": "rImbMHLLfJwjf3l25vBkc",
+        "resources": [
+            {
+                "title": "ASP.NET",
+                "url": "http://ASP.NET",
+                "type": "Article"
+            },
+            {
+                "title": "@course@C# Learning Path",
+                "url": "https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=dotnet-35129-website",
+                "type": "Article"
+            },
+            {
+                "title": "@official@C# Tour",
+                "url": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Learn C# Programming \u2013 Full Course with Mini-Projects",
+                "url": "https://www.youtube.com/watch?v=YrtFtdTTfv0",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about C#",
+                "url": "https://app.daily.dev/tags/csharp?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Ruby",
+        "node_id": "SlH0Rl07yURDko2nDPfFy",
+        "resources": [
+            {
+                "title": "@article@Ruby Website",
+                "url": "https://www.ruby-lang.org/en/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Learn Ruby in 20 minutes",
+                "url": "https://www.ruby-lang.org/en/documentation/quickstart/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Ruby, An Introduction to a Programmer\u2019s Best Friend",
+                "url": "https://thenewstack.io/ruby-a-programmers-best-friend/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Ruby Comprehensive courses",
+                "url": "https://www.youtube.com/playlist?list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Ruby",
+                "url": "https://app.daily.dev/tags/ruby?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Git",
+        "node_id": "_I1E__wCIVrhjMk6IMieE",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated Git & GitHub Roadmap",
+                "url": "https://roadmap.sh/git-github",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Git Documentation",
+                "url": "https://git-scm.com/doc",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Git Cheat Sheet",
+                "url": "https://cs.fyi/guide/git-cheatsheet",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Learn Git Branching",
+                "url": "https://learngitbranching.js.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Git & GitHub Crash Course For Beginners",
+                "url": "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Learn Git - Full Course",
+                "url": "https://www.youtube.com/watch?v=rH3zE7VlIMs",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Git",
+                "url": "https://app.daily.dev/tags/git?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Version Control Systems",
+        "node_id": "ezdqQW9wTUw93F6kjOzku",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated Git & GitHub Roadmap",
+                "url": "https://roadmap.sh/git-github",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Git Documentation",
+                "url": "https://git-scm.com/doc",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is Version Control?",
+                "url": "https://www.atlassian.com/git/tutorials/what-is-version-control",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is Version Control? - GitLab",
+                "url": "https://about.gitlab.com/topics/version-control/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Comparing Workflows - Centralized vs Distributed",
+                "url": "https://www.atlassian.com/git/tutorials/comparing-workflows",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Version Control System (VCS) - Everything you need to know",
+                "url": "https://www.youtube.com/watch?v=SVkuliabq4g",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Git for Beginners - Git & GitHub Tutorial",
+                "url": "https://www.youtube.com/watch?v=8JJ101D3knE",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "GitHub",
+        "node_id": "ptD8EVqwFUYr4W5A_tABY",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated Git & GitHub Roadmap",
+                "url": "https://roadmap.sh/git-github",
+                "type": "Article"
+            },
+            {
+                "title": "@official@GitHub",
+                "url": "https://github.com",
+                "type": "Article"
+            },
+            {
+                "title": "@official@GitHub Documentation",
+                "url": "https://docs.github.com",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is GitHub?",
+                "url": "https://www.youtube.com/watch?v=w3jLJU7DT5E",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Git vs. GitHub: Whats the difference?",
+                "url": "https://www.youtube.com/watch?v=wpISo9TNjfU",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Git and GitHub for Beginners",
+                "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about GitHub",
+                "url": "https://app.daily.dev/tags/github?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Bitbucket",
+        "node_id": "Ry_5Y-BK7HrkIc6X0JG1m",
+        "resources": [
+            {
+                "title": "@official@Bitbucket",
+                "url": "https://bitbucket.org/product",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Overview of Bitbucket",
+                "url": "https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Using Git with Bitbucket Cloud",
+                "url": "https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Bitbucket tutorial | How to use Bitbucket Cloud",
+                "url": "https://www.youtube.com/watch?v=M44nEyd_5To",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Bitbucket",
+                "url": "https://app.daily.dev/tags/bitbucket?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "GitLab",
+        "node_id": "Wcp-VDdFHipwa7hNAp1z_",
+        "resources": [
+            {
+                "title": "@official@GitLab",
+                "url": "https://gitlab.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@GitLab Documentation",
+                "url": "https://docs.gitlab.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is GitLab and Why Use It?",
+                "url": "https://www.youtube.com/watch?v=bnF7f1zGpo4",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about GitLab",
+                "url": "https://app.daily.dev/tags/gitlab?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Repo Hosting Services",
+        "node_id": "NvUcSDWBhzJZ31nzT4UlE",
+        "resources": [
+            {
+                "title": "@official@GitHub",
+                "url": "https://github.com",
+                "type": "Article"
+            },
+            {
+                "title": "@official@GitLab",
+                "url": "https://about.gitlab.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@BitBucket",
+                "url": "https://bitbucket.org/product/guides/getting-started/overview",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "PostgreSQL",
+        "node_id": "FihTrMO56kj9jT8O_pO2T",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated PostgreSQL DBA Roadmap",
+                "url": "https://roadmap.sh/postgresql-dba",
+                "type": "Article"
+            },
+            {
+                "title": "@course@PostgreSQL Full Course for Beginners \u2013 freeCodeCamp",
+                "url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+                "type": "Video"
+            },
+            {
+                "title": "@official@Official Website",
+                "url": "https://www.postgresql.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Learn PostgreSQL - Full Tutorial for Beginners",
+                "url": "https://www.postgresqltutorial.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@PostgreSQL in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=n2Fluyr3lbc",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Postgres tutorial for Beginners",
+                "url": "https://www.youtube.com/watch?v=SpfIwlAYaKk",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about PostgreSQL",
+                "url": "https://app.daily.dev/tags/postgresql?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "MS SQL",
+        "node_id": "dEsTje8kfHwWjCI3zcgLC",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated SQL Roadmap",
+                "url": "https://roadmap.sh/sql",
+                "type": "Article"
+            },
+            {
+                "title": "@official@MS SQL",
+                "url": "https://www.microsoft.com/en-ca/sql-server/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Tutorials for SQL Server",
+                "url": "https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15",
+                "type": "Article"
+            },
+            {
+                "title": "@video@SQL Server tutorial for beginners",
+                "url": "https://www.youtube.com/watch?v=-EPMOaV7h_Q",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "MySQL",
+        "node_id": "VPxOdjJtKAqmM5V0LR5OC",
+        "resources": [
+            {
+                "title": "@official@MySQL",
+                "url": "https://www.mysql.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@MySQL for Developers",
+                "url": "https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction",
+                "type": "Article"
+            },
+            {
+                "title": "@article@MySQL Tutorial",
+                "url": "https://www.mysqltutorial.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@MySQL Complete Course",
+                "url": "https://www.youtube.com/watch?v=5OdVJbNCSso",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about MySQL",
+                "url": "https://app.daily.dev/tags/mysql?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Oracle",
+        "node_id": "h1SAjQltHtztSt8QmRgab",
+        "resources": [
+            {
+                "title": "@official@Oracle Website",
+                "url": "https://www.oracle.com/database/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Oracle Docs",
+                "url": "https://docs.oracle.com/en/database/index.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Oracle SQL Tutorial for Beginners",
+                "url": "https://www.youtube.com/watch?v=ObbNGhcxXJA",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Oracle",
+                "url": "https://app.daily.dev/tags/oracle?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "MariaDB",
+        "node_id": "tD3i-8gBpMKCHB-ITyDiU",
+        "resources": [
+            {
+                "title": "@official@MariaDB",
+                "url": "https://mariadb.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@MariaDB vs MySQL",
+                "url": "https://www.guru99.com/mariadb-vs-mysql.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@MariaDB Tutorial For Beginners in One Hour",
+                "url": "https://www.youtube.com/watch?v=_AMj02sANpI",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Infrastructure",
+                "url": "https://app.daily.dev/tags/infrastructure?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Relational Databases",
+        "node_id": "r45b461NxLN6wBODJ5CNP",
+        "resources": [
+            {
+                "title": "@course@Databases and SQL",
+                "url": "https://www.edx.org/course/databases-5-sql",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Relational Databases",
+                "url": "https://www.ibm.com/cloud/learn/relational-databases",
+                "type": "Article"
+            },
+            {
+                "title": "@article@51 Years of Relational Databases",
+                "url": "https://learnsql.com/blog/codd-article-databases/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Intro To Relational Databases",
+                "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Relational Database",
+                "url": "https://youtu.be/OqjJjpjDRLc",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Backend Development",
+                "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "NoSQL Databases",
+        "node_id": "F8frGuv1dunOdcVJ_IiGs",
+        "resources": [
+            {
+                "title": "@article@NoSQL Explained",
+                "url": "https://www.mongodb.com/nosql-explained",
+                "type": "Article"
+            },
+            {
+                "title": "@video@How do NoSQL Databases work",
+                "url": "https://www.youtube.com/watch?v=0buKQHokLK8",
+                "type": "Video"
+            },
+            {
+                "title": "@video@SQL vs NoSQL Explained",
+                "url": "https://www.youtube.com/watch?v=ruz-vK8IesE",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about NoSQL",
+                "url": "https://app.daily.dev/tags/nosql?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "ORMs",
+        "node_id": "Z7jp_Juj5PffSxV7UZcBb",
+        "resources": [
+            {
+                "title": "@official@Prisma ORM Documentation",
+                "url": "https://www.prisma.io/docs",
+                "type": "Article"
+            },
+            {
+                "title": "@official@SQLAlchemy Documentation",
+                "url": "https://docs.sqlalchemy.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is an ORM, how does it work, and how should I use one?",
+                "url": "https://stackoverflow.com/a/1279678",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is an ORM",
+                "url": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is an ORM? - NestJS and Prisma Tutorial",
+                "url": "https://www.youtube.com/watch?v=rLRIB6AF2Dg",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Why Use an ORM?",
+                "url": "https://www.youtube.com/watch?v=vHt2LC1EM3Q",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Backend Development",
+                "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Normalization",
+        "node_id": "Ge2SnKBrQQrU-oGLz6TmT",
+        "resources": [
+            {
+                "title": "@article@What is Normalization in DBMS (SQL)? 1NF, 2NF, 3NF, BCNF Database with Example",
+                "url": "https://www.guru99.com/database-normalization.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Complete guide to Database Normalization in SQL",
+                "url": "https://www.youtube.com/watch?v=rBPQ5fg_kiY",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Database",
+                "url": "https://app.daily.dev/tags/database?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "ACID",
+        "node_id": "qSAdfaGUfn8mtmDjHJi3z",
+        "resources": [
+            {
+                "title": "@book@Database System Concepts - Silberschatz, Korth, Sudarshan",
+                "url": "https://db-book.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@PostgreSQL Tutorial on Transactions",
+                "url": "https://www.postgresql.org/docs/current/tutorial-transactions.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is ACID Compliant Database?",
+                "url": "https://retool.com/blog/whats-an-acid-compliant-database/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is ACID Compliance?: Atomicity, Consistency, Isolation",
+                "url": "https://fauna.com/blog/what-is-acid-compliance-atomicity-consistency-isolation",
+                "type": "Article"
+            },
+            {
+                "title": "@article@A Beginner's Guide to ACID and Database Transactions",
+                "url": "https://vladmihalcea.com/a-beginners-guide-to-acid-and-database-transactions/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@ACID Explained: Atomic, Consistent, Isolated & Durable",
+                "url": "https://www.youtube.com/watch?v=yaQ5YMWkxq4",
+                "type": "Video"
+            },
+            {
+                "title": "@video@ACID Transactions (Explained by Example)",
+                "url": "https://www.youtube.com/watch?v=pomxJOFVcQs",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Failure Modes",
+        "node_id": "GwApfL4Yx-b5Y8dB9Vy__",
+        "resources": [
+            {
+                "title": "@course@Database Failure Modes",
+                "url": "https://roadmap.sh/ai/course/database-failure-modes-prevention-and-recovery",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Transactions",
+        "node_id": "rq_y_OBMD9AH_4aoecvAi",
+        "resources": [
+            {
+                "title": "@official@PostgreSQL Transaction Isolation Documentation",
+                "url": "https://www.postgresql.org/docs/current/transaction-iso.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What are Transactions?",
+                "url": "https://fauna.com/blog/database-transaction",
+                "type": "Article"
+            },
+            {
+                "title": "@article@SQL Transactions Tutorial",
+                "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-transaction/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@How does a Relational Database work?",
+                "url": "https://vladmihalcea.com/how-does-a-relational-database-work/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is a Database transaction?",
+                "url": "https://www.youtube.com/watch?v=wHUOeXbZCYA",
+                "type": "Video"
+            },
+            {
+                "title": "@video@ACID Properties in Databases With Examples",
+                "url": "https://www.youtube.com/watch?v=GAe5oB742dw",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Database Transactions and ACID Properties",
+                "url": "https://www.youtube.com/watch?v=AcqtAEzuoj0",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Profiling Perfor.",
+        "node_id": "SYXJhanu0lFmGj2m2XXhS",
+        "resources": [
+            {
+                "title": "@article@How to Profile SQL Queries for Better Performance",
+                "url": "https://servebolt.com/articles/profiling-sql-queries/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Performance Profiling",
+                "url": "https://www.youtube.com/watch?v=MaauQTeGg2k",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "N+1 Problem",
+        "node_id": "bQnOAu863hsHdyNMNyJop",
+        "resources": [
+            {
+                "title": "@article@In Detail Explanation of N+1 Problem",
+                "url": "https://medium.com/doctolib/understanding-and-fixing-n-1-query-30623109fe89",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is the N+1 Problem",
+                "url": "https://planetscale.com/blog/what-is-n-1-query-problem-and-how-to-solve-it",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Solving N+1 Problem: For Java Backend Developers",
+                "url": "https://dev.to/jackynote/solving-the-notorious-n1-problem-optimizing-database-queries-for-java-backend-developers-2o0p",
+                "type": "Article"
+            },
+            {
+                "title": "@video@SQLite and the N+1 (no) problem",
+                "url": "https://www.youtube.com/watch?v=qPfAQY_RahA",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "More about Databases",
+        "node_id": "LJt27onEOeIBomiEMTyKd",
+        "resources": [
+            {
+                "title": "@article@Oracle: What is a Database?",
+                "url": "https://www.oracle.com/database/what-is-database/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Prisma.io: What are Databases?",
+                "url": "https://www.prisma.io/dataguide/intro/what-are-databases",
+                "type": "Article"
+            },
+            {
+                "title": "@feed@Explore top posts about Backend Development",
+                "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Database Indexes",
+        "node_id": "y-xkHFE9YzhNIX3EiWspL",
+        "resources": [
+            {
+                "title": "@official@PostgreSQL - Indexes",
+                "url": "https://www.postgresql.org/docs/current/indexes.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is a Database Index?",
+                "url": "https://www.codecademy.com/article/sql-indexes",
+                "type": "Article"
+            },
+            {
+                "title": "@article@How Do Database Indexes Work?",
+                "url": "https://planetscale.com/blog/how-do-database-indexes-work",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Use the Index, Luke! - A Guide to Database Performance for Developers",
+                "url": "https://use-the-index-luke.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Database Indexing Explained",
+                "url": "https://www.youtube.com/watch?v=-qNSXK7s7_w",
+                "type": "Video"
+            },
+            {
+                "title": "@video@How do SQL Indexes Work",
+                "url": "https://www.youtube.com/watch?v=fsG1XaZEa78",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Database",
+                "url": "https://app.daily.dev/tags/database?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Sharding Strategies",
+        "node_id": "zWstl08R4uzqve4BdYurp",
+        "resources": [
+            {
+                "title": "@article@Wikipedia - Sharding in Database Architectures",
+                "url": "https://en.wikipedia.org/wiki/Shard_(database_architecture",
+                "type": "Article"
+            },
+            {
+                "title": "@article@How sharding a database can make it faster",
+                "url": "https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Database Sharding?",
+                "url": "https://www.youtube.com/watch?v=XP98YCr-iXQ",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Backend Development",
+                "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Data Replication",
+        "node_id": "wrl7HHWXOaxoKVlNZxZ6d",
+        "resources": [
+            {
+                "title": "@article@Data Replication? - IBM",
+                "url": "https://www.ibm.com/topics/data-replication",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Data Replication?",
+                "url": "https://www.youtube.com/watch?v=iO8a1nMbL1o",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "CAP Theorem",
+        "node_id": "LAdKDJ4LcMaDWqslMvE8X",
+        "resources": [
+            {
+                "title": "@article@What is CAP Theorem?",
+                "url": "https://www.bmc.com/blogs/cap-theorem/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@An Illustrated Proof of the CAP Theorem",
+                "url": "https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Perspectives on the CAP Theorem",
+                "url": "https://github.com/user-attachments/files/18232157/Brewer2.pdf",
+                "type": "Article"
+            },
+            {
+                "title": "@article@CAP Theorem and its applications in NoSQL Databases",
+                "url": "https://www.ibm.com/uk-en/cloud/learn/cap-theorem",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is CAP Theorem?",
+                "url": "https://www.youtube.com/watch?v=_RbsFXWRZ10",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Scaling Databases",
+        "node_id": "95d9itpUZ4s9roZN8kG9x",
+        "resources": [
+            {
+                "title": "@article@Strategies for Scaling Databases: A Comprehensive Guide",
+                "url": "https://medium.com/@anil.goyal0057/strategies-for-scaling-databases-a-comprehensive-guide-b69cda7df1d3",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Horizontal vs. Vertical Scaling - How to Scale a Database",
+                "url": "https://www.freecodecamp.org/news/horizontal-vs-vertical-scaling-in-database/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Understanding Database Sharding - DigitalOcean",
+                "url": "https://www.digitalocean.com/community/tutorials/understanding-database-sharding",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Database Replication Explained",
+                "url": "https://towardsdatascience.com/database-replication-explained-5c76a200d8f3",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Database Scaling Strategies for Beginners",
+                "url": "https://www.youtube.com/watch?v=dkhOZOmV7Fo",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Database Sharding and Partitioning",
+                "url": "https://www.youtube.com/watch?v=wXvljefXyEo",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "HATEOAS",
+        "node_id": "dLY0KafPstajCcSbslC4M",
+        "resources": [
+            {
+                "title": "@official@Richardson Maturity Model - Martin Fowler",
+                "url": "https://martinfowler.com/articles/richardsonMaturityModel.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is HATEOAS and why is it important for my REST API?",
+                "url": "https://restcookbook.com/Basics/hateoas/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@HATEOAS - A Practical Guide with Spring",
+                "url": "https://www.baeldung.com/spring-hateoas-tutorial",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What happened to HATEOAS",
+                "url": "https://www.youtube.com/watch?v=HNTSrytKCoQ",
+                "type": "Video"
+            },
+            {
+                "title": "@video@HATEOAS Explained",
+                "url": "https://www.youtube.com/watch?v=gCNAudrbWCo",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "JSON APIs",
+        "node_id": "sNceS4MpSIjRkWhNDmrFg",
+        "resources": [
+            {
+                "title": "@course@Full Stack Open - Node.js and Express (Part 3)",
+                "url": "https://fullstackopen.com/en/part3",
+                "type": "Article"
+            },
+            {
+                "title": "@official@JSON API Specification",
+                "url": "https://jsonapi.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@JSON.org - Introducing JSON",
+                "url": "https://www.json.org/json-en.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is JSON API?",
+                "url": "https://medium.com/@niranjan.cs/what-is-json-api-3b824fba2788",
+                "type": "Article"
+            },
+            {
+                "title": "@article@JSON API Recommendations and Best Practices",
+                "url": "https://jsonapi.org/recommendations/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@JSON API: Explained in 4 minutes",
+                "url": "https://www.youtube.com/watch?v=N-4prIh7t38",
+                "type": "Video"
+            },
+            {
+                "title": "@video@REST API vs JSON API - Which Should You Use?",
+                "url": "https://www.youtube.com/watch?v=0oXYLzuucwE",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Open API Specs",
+        "node_id": "9cD5ag1L0GqHx4_zxc5JX",
+        "resources": [
+            {
+                "title": "@official@OpenAPI Specification Website",
+                "url": "https://swagger.io/specification/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Open API Live Editor",
+                "url": "https://swagger.io/tools/swagger-editor/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0",
+                "url": "https://www.youtube.com/watch?v=6kwmW_p_Tig",
+                "type": "Video"
+            },
+            {
+                "title": "@video@ REST API and OpenAPI: It\u2019s Not an Either/Or Question",
+                "url": "https://www.youtube.com/watch?v=pRS9LRBgjYg",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "SOAP",
+        "node_id": "sSNf93azjuyMzQqIHE0Rh",
+        "resources": [
+            {
+                "title": "@official@W3C SOAP Specification",
+                "url": "https://www.w3.org/TR/soap12/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is SOAP? REST vs SOAP - AWS",
+                "url": "https://aws.amazon.com/what-is/soap-vs-rest/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@SOAP vs REST - Red Hat",
+                "url": "https://www.redhat.com/en/topics/integration/whats-the-difference-between-soap-rest",
+                "type": "Article"
+            },
+            {
+                "title": "@article@SOAP Web Services Tutorial for Beginners",
+                "url": "https://www.guru99.com/soap-simple-object-access-protocol.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@REST vs SOAP",
+                "url": "https://www.youtube.com/watch?v=_fq8Ye8kodA",
+                "type": "Video"
+            },
+            {
+                "title": "@video@SOAP vs REST vs GraphQL vs gRPC",
+                "url": "https://www.youtube.com/watch?v=4vLxWqE94l4",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "gRPC",
+        "node_id": "J-TOE2lT4At1mSdNoxPS1",
+        "resources": [
+            {
+                "title": "@official@gRPC Website",
+                "url": "https://grpc.io/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What Is GRPC?",
+                "url": "https://www.wallarm.com/what/the-concept-of-grpc",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What Is GRPC?",
+                "url": "https://www.youtube.com/watch?v=hVrwuMnCtok",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about gRPC",
+                "url": "https://app.daily.dev/tags/grpc?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "REST",
+        "node_id": "lfNFDZZNdrB0lbEaMtU71",
+        "resources": [
+            {
+                "title": "@article@What is a REST API?",
+                "url": "https://www.redhat.com/en/topics/api/what-is-a-rest-api",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Best practices for RESTful web API design",
+                "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Roy Fieldings dissertation chapter, Representational State Transfer (REST)",
+                "url": "https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Learn REST: A RESTful Tutorial",
+                "url": "https://restapitutorial.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is a REST API?",
+                "url": "https://www.youtube.com/watch?v=-mN3VyJuCjM",
+                "type": "Video"
+            },
+            {
+                "title": "@video@REST API Best Practices \u2013 REST Endpoint Design",
+                "url": "https://www.youtube.com/watch?v=1Wl-rtew1_E",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about REST API",
+                "url": "https://app.daily.dev/tags/rest-api?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "GraphQL",
+        "node_id": "zp3bq38tMnutT2N0tktOW",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated GraphQL Roadmap",
+                "url": "https://roadmap.sh/graphql",
+                "type": "Article"
+            },
+            {
+                "title": "@official@GraphQL",
+                "url": "https://graphql.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Tutorial - GraphQL Explained in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=eIQh02xuVw4",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about GraphQL",
+                "url": "https://app.daily.dev/tags/graphql?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Client Side",
+        "node_id": "KWTbEVX_WxS8jmSaAX3Fe",
+        "resources": [
+            {
+                "title": "@article@Client Side Caching",
+                "url": "https://redis.io/docs/latest/develop/use/client-side-caching/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Everything you need to know about HTTP Caching",
+                "url": "https://www.youtube.com/watch?v=HiBDZgTNpXY",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "CDN",
+        "node_id": "Nq2BO53bHJdFT1rGZPjYx",
+        "resources": [
+            {
+                "title": "@article@CloudFlare - What is a CDN? | How do CDNs work?",
+                "url": "https://www.cloudflare.com/en-ca/learning/cdn/what-is-a-cdn/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@AWS - CDN",
+                "url": "https://aws.amazon.com/what-is/cdn/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Cloud CDN?",
+                "url": "https://www.youtube.com/watch?v=841kyd_mfH0",
+                "type": "Video"
+            },
+            {
+                "title": "@video@What is a CDN and how does it work?",
+                "url": "https://www.youtube.com/watch?v=RI9np1LWzqw",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Server Side",
+        "node_id": "z1-eP4sV75GBEIdM4NvL9",
+        "resources": [
+            {
+                "title": "@article@Server-side caching and Client-side caching",
+                "url": "https://www.codingninjas.com/codestudio/library/server-side-caching-and-client-side-caching",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Caching strategies",
+                "url": "https://medium.com/@genchilu/cache-strategy-in-backend-d0baaacd2d79",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Local vs distributed",
+                "url": "https://redis.io/glossary/distributed-caching/",
+                "type": "Article"
+            },
+            {
+                "title": "@feed@Explore top posts about Web Development",
+                "url": "https://app.daily.dev/tags/webdev?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Caching",
+        "node_id": "ELj8af7Mi38kUbaPJfCUR",
+        "resources": [
+            {
+                "title": "@article@What is Caching - AWS",
+                "url": "https://aws.amazon.com/caching/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Caching - Cloudflare",
+                "url": "https://www.cloudflare.com/learning/cdn/what-is-caching/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Caching Strategies and How to Choose the Right One",
+                "url": "https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Top Caching Strategies Explained",
+                "url": "https://blog.bytebytego.com/p/top-caching-strategies",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Cache Systems Every Developer Should Know",
+                "url": "https://www.youtube.com/watch?v=dGAgxozNWFE",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Caching Complete Tutorial for Beginners",
+                "url": "https://www.youtube.com/watch?v=1XJG34mewts",
+                "type": "Video"
+            },
+            {
+                "title": "@course@Redis University - Introduction to Redis Data Structures",
+                "url": "https://redis.io/university/courses/ru101/",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Web Security",
+        "node_id": "RBrIP5KbVQ2F0ly7kMfTo",
+        "resources": [
+            {
+                "title": "@roadmap@Visit the Dedicated Cybersecurity Roadmap",
+                "url": "https://roadmap.sh/cyber-security",
+                "type": "Article"
+            },
+            {
+                "title": "@opensource@OWASP Web Application Security Testing Checklist",
+                "url": "https://github.com/0xRadi/OWASP-Web-Checklist",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Why HTTPS Matters",
+                "url": "https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https",
+                "type": "Article"
+            },
+            {
+                "title": "@video@7 Security Risks and Hacking Stories for Web Developers",
+                "url": "https://www.youtube.com/watch?v=4YOpILi9Oxs",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Security",
+                "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Integration Testing",
+        "node_id": "381Kw1IMRv7CJp-Uf--qd",
+        "resources": [
+            {
+                "title": "@opensource@Supertest - HTTP Integration Testing for Node.js",
+                "url": "https://github.com/ladjs/supertest",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Integration Testing",
+                "url": "https://www.guru99.com/integration-testing.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Unit Test vs Integration Test: What's the Difference?",
+                "url": "https://www.testim.io/blog/unit-test-vs-integration-test/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@How to Integrate and Test Your Tech Stack",
+                "url": "https://thenewstack.io/how-to-integrate-and-test-your-tech-stack/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Integration Testing?",
+                "url": "https://www.youtube.com/watch?v=kRD6PA6uxiY",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Integration Testing in Node.js",
+                "url": "https://www.youtube.com/watch?v=r9HdJ8P6GQI",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Testing",
+                "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Functional Testing",
+        "node_id": "NAGisfq2CgeK3SsuRjnMw",
+        "resources": [
+            {
+                "title": "@official@Playwright - End-to-End Testing Documentation",
+                "url": "https://playwright.dev/docs/intro",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is Functional Testing?",
+                "url": "https://www.guru99.com/functional-testing.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Functional Testing: What It Is and How to Do It Right",
+                "url": "https://www.atlassian.com/continuous-delivery/software-testing/functional-testing",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Functional Testing vs Non-Functional Testing",
+                "url": "https://www.youtube.com/watch?v=NgQT7miTP9M",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Software Testing Tutorial for Beginners",
+                "url": "https://www.youtube.com/watch?v=u6QfIXgjwGQ",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Testing",
+                "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Unit Testing",
+        "node_id": "3OYm6b9f6WOrKi4KTOZYK",
+        "resources": [
+            {
+                "title": "@official@Jest - JavaScript Testing Framework",
+                "url": "https://jestjs.io/docs/getting-started",
+                "type": "Article"
+            },
+            {
+                "title": "@opensource@JavaScript Testing Best Practices",
+                "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Unit Testing",
+                "url": "https://en.wikipedia.org/wiki/Unit_testing",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is Unit Testing?",
+                "url": "https://www.guru99.com/unit-testing-guide.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@JavaScript Unit Testing with Jest - Full Course",
+                "url": "https://www.youtube.com/watch?v=IPiUDhwnZxA",
+                "type": "Video"
+            },
+            {
+                "title": "@video@What is Unit Testing?",
+                "url": "https://youtu.be/x95ez7_V7rA?si=JhCVhcEN7zZOkxdp",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Testing",
+                "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Testing",
+        "node_id": "STQQbPa7PE3gbjMdL6P-t",
+        "resources": [
+            {
+                "title": "@article@What is Software Testing?",
+                "url": "https://www.guru99.com/software-testing-introduction-importance.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Testing Pyramid",
+                "url": "https://www.browserstack.com/guide/testing-pyramid-for-test-automation",
+                "type": "Article"
+            },
+            {
+                "title": "@feed@Explore top posts about Testing",
+                "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "CI / CD",
+        "node_id": "mGfD7HfuP184lFkXZzGjG",
+        "resources": [
+            {
+                "title": "@article@What is CI/CD?",
+                "url": "https://about.gitlab.com/topics/ci-cd/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@A Primer: Continuous Integration and Continuous Delivery (CI/CD)",
+                "url": "https://thenewstack.io/a-primer-continuous-integration-and-continuous-delivery-ci-cd/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Articles about CI/CD",
+                "url": "https://thenewstack.io/category/ci-cd/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@DevOps CI/CD Explained in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=scEDHsr3APg",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Automate your Workflows with GitHub Actions",
+                "url": "https://www.youtube.com/watch?v=nyKZTKQS_EQ",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about CI/CD",
+                "url": "https://app.daily.dev/tags/cicd?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "GOF Design Patterns",
+        "node_id": "6XIWO0MoE-ySl4qh_ihXa",
+        "resources": [
+            {
+                "title": "@article@Gangs of Four (GoF) Design Patterns",
+                "url": "https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Design Patterns for Humans",
+                "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Tutorial - Builder Pattern (Gang of Four Design Patterns Series)",
+                "url": "https://www.youtube.com/watch?v=_sa2WlAFWQos",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "CQRS",
+        "node_id": "u8IRw5PuXGUcmxA0YYXgx",
+        "resources": [
+            {
+                "title": "@official@CQRS Pattern - Azure Architecture Center",
+                "url": "https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs",
+                "type": "Article"
+            },
+            {
+                "title": "@article@CQRS by Martin Fowler",
+                "url": "https://martinfowler.com/bliki/CQRS.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@CQRS Pattern - microservices.io",
+                "url": "https://microservices.io/patterns/data/cqrs.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@CQRS and Event Sourcing",
+                "url": "https://www.eventstore.com/blog/why-use-cqrs",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Learn CQRS Pattern in 5 minutes!",
+                "url": "https://www.youtube.com/watch?v=eiut3FIY1Cg",
+                "type": "Video"
+            },
+            {
+                "title": "@video@CQRS and Event Sourcing Explained",
+                "url": "https://www.youtube.com/watch?v=mjFiRFJuMRs",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Domain Driven Design",
+        "node_id": "BvHi5obg0L1JDZFKBzx9t",
+        "resources": [
+            {
+                "title": "@article@Domain-Driven Design",
+                "url": "https://redis.com/glossary/domain-driven-design-ddd/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Domain Driven Design: What You Need To Know",
+                "url": "https://www.youtube.com/watch?v=4rhzdZIDX_k",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Domain-Driven Design",
+                "url": "https://app.daily.dev/tags/domain-driven-design?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Event Sourcing",
+        "node_id": "wqE-mkxvehOzOv8UyE39p",
+        "resources": [
+            {
+                "title": "@article@Event Sourcing - Martin Fowler",
+                "url": "https://martinfowler.com/eaaDev/EventSourcing.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Event Sourcing 101",
+                "url": "https://www.youtube.com/watch?v=lg6aF5PP4Tc",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Architecture",
+                "url": "https://app.daily.dev/tags/architecture?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Test Driven Development",
+        "node_id": "I-PUAE2AzbEaUkW9vMaUM",
+        "resources": [
+            {
+                "title": "@article@What is Test Driven Development (TDD)?",
+                "url": "https://www.guru99.com/test-driven-development.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Test-driven development",
+                "url": "https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Test-Driven Development",
+                "url": "https://www.youtube.com/watch?v=Jv2uxzhPFl4",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about TDD",
+                "url": "https://app.daily.dev/tags/tdd?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Monolithic Apps",
+        "node_id": "Ke522R-4k6TDeiDRyZbbU",
+        "resources": [
+            {
+                "title": "@article@Pattern: Monolithic Architecture",
+                "url": "https://microservices.io/patterns/monolithic.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Monolithic Architecture - Advantages & Disadvantages",
+                "url": "https://datamify.medium.com/monolithic-architecture-advantages-and-disadvantages-e71a603eec89",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Monolithic vs Microservice Architecture",
+                "url": "https://www.youtube.com/watch?v=NdeTGlZ__Do",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Serverless",
+        "node_id": "nkmIv3dNwre4yrULMgTh3",
+        "resources": [
+            {
+                "title": "@article@Serverless",
+                "url": "https://www.ibm.com/cloud/learn/serverless",
+                "type": "Article"
+            },
+            {
+                "title": "@article@AWS Services",
+                "url": "https://aws.amazon.com/serverless/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Serverless Computing in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=W_VV2Fx32_Y&ab_channel=Fireship",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Serverless",
+                "url": "https://app.daily.dev/tags/serverless?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Microservices",
+        "node_id": "K55h3aqOGe6-hgVhiFisT",
+        "resources": [
+            {
+                "title": "@article@Pattern: Microservice Architecture",
+                "url": "https://microservices.io/patterns/microservices.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is Microservices?",
+                "url": "https://smartbear.com/solutions/microservices/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Microservices 101",
+                "url": "https://thenewstack.io/microservices-101/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Articles about Microservices",
+                "url": "https://thenewstack.io/category/microservices/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Microservices explained in 5 minutes",
+                "url": "https://www.youtube.com/watch?v=lL_j7ilk7rc",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Microservices",
+                "url": "https://app.daily.dev/tags/microservices?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Service Mesh",
+        "node_id": "n14b7sfTOwsjKTpFC9EZ2",
+        "resources": [
+            {
+                "title": "@article@What is a Service Mesh (AWS blog)?",
+                "url": "https://aws.amazon.com/what-is/service-mesh/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is a Service Mesh (RedHat blog)?",
+                "url": "https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is a Service Mesh?",
+                "url": "https://www.youtube.com/watch?v=vh1YtWjfcyk",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Service Mesh",
+                "url": "https://app.daily.dev/tags/service-mesh?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "SOA",
+        "node_id": "tObmzWpjsJtK4GWhx6pwB",
+        "resources": [
+            {
+                "title": "@article@What is SOA?",
+                "url": "https://aws.amazon.com/what-is/service-oriented-architecture/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Reference Architecture Foundation for Service Oriented Architecture",
+                "url": "http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/soa-ra.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Service Oriented Architecture (SOA) Simplified",
+                "url": "https://www.youtube.com/watch?v=PA9RjHI463g",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Architecture",
+                "url": "https://app.daily.dev/tags/architecture?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Twelve Factor Apps",
+        "node_id": "8DmabQJXlrT__COZrDVTV",
+        "resources": [
+            {
+                "title": "@article@The Twelve-Factor App",
+                "url": "https://12factor.net/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@An illustrated guide to 12 Factor Apps",
+                "url": "https://www.redhat.com/architect/12-factor-app",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Every Developer NEEDS To Know 12-Factor App Principles",
+                "url": "https://www.youtube.com/watch?v=FryJt0Tbt9Q",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Architectural Patterns",
+        "node_id": "tHiUpG9LN35E5RaHddMv5",
+        "resources": [
+            {
+                "title": "@article@14 Architectural Patterns to know - Red Hat",
+                "url": "https://www.redhat.com/architect/14-software-architecture-patterns",
+                "type": "Article"
+            },
+            {
+                "title": "@article@10 Common Software Architectural Patterns in a nutshell",
+                "url": "https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Software Architecture Patterns - O'Reilly",
+                "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Software Architecture | Architectural patterns",
+                "url": "https://www.youtube.com/watch?v=BrT3AO8bVQY",
+                "type": "Video"
+            },
+            {
+                "title": "@video@10 Architecture Patterns Used In Enterprise Software Development Today",
+                "url": "https://www.youtube.com/watch?v=BrT3AO8bVQY",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "RabbitMQ",
+        "node_id": "GPFRMcY1DEtRgnaZwJ3vW",
+        "resources": [
+            {
+                "title": "@official@RabbitMQ Tutorials",
+                "url": "https://www.rabbitmq.com/getstarted.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@RabbitMQ Tutorial - Message Queues and Distributed Systems",
+                "url": "https://www.youtube.com/watch?v=nFxjaVmFj5E",
+                "type": "Video"
+            },
+            {
+                "title": "@video@RabbitMQ in 100 Seconds",
+                "url": "https://m.youtube.com/watch?v=NQ3fZtyXji0",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about RabbitMQ",
+                "url": "https://app.daily.dev/tags/rabbitmq?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Kafka",
+        "node_id": "VoYSis1F1ZfTxMlQlXQKB",
+        "resources": [
+            {
+                "title": "@official@Apache Kafka",
+                "url": "https://kafka.apache.org/quickstart",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Apache Kafka Streams",
+                "url": "https://docs.confluent.io/platform/current/streams/concepts.html",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Kafka Streams Confluent",
+                "url": "https://kafka.apache.org/documentation/streams/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Apache Kafka Fundamentals",
+                "url": "https://www.youtube.com/watch?v=B5j3uNBH8X4",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Kafka in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=uvb00oaa3k8",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Kafka",
+                "url": "https://app.daily.dev/tags/kafka?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Message Brokers",
+        "node_id": "nJ5FpFgGCRaALcWmAKBKT",
+        "resources": [
+            {
+                "title": "@article@What are Message Brokers?",
+                "url": "https://www.ibm.com/topics/message-brokers",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Introduction to Message Brokers",
+                "url": "https://www.youtube.com/watch?v=57Qr9tk6Uxc",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Kafka vs RabbitMQ",
+                "url": "https://www.youtube.com/watch?v=_5mu7lZz5X4",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "LXC",
+        "node_id": "31ZlpfIPr9-5vYZqvjUeL",
+        "resources": [
+            {
+                "title": "@official@LXC Documentation",
+                "url": "https://linuxcontainers.org/lxc/documentation/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is LXC?",
+                "url": "https://linuxcontainers.org/lxc/introduction/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Getting Started with LXD Containerization",
+                "url": "https://www.youtube.com/watch?v=aIwgPKkVj8s",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Getting Started with LXC containers",
+                "url": "https://youtu.be/CWmkSj_B-wo",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Containerization vs Virtualization",
+        "node_id": "SGVwJme-jT_pbOTvems0v",
+        "resources": [
+            {
+                "title": "@article@Containerization vs. Virtualization: Everything you need to know",
+                "url": "https://middleware.io/blog/containerization-vs-virtualization/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Virtual Machine (VM) vs Docker",
+                "url": "https://www.youtube.com/watch?v=a1M_thDTqmU",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Containers",
+                "url": "https://app.daily.dev/tags/containers?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "WebSockets",
+        "node_id": "sVuIdAe08IWJVqAt4z-ag",
+        "resources": [
+            {
+                "title": "@official@Socket.io Library Bidirectional and Low-latency Communication for Every Platform",
+                "url": "https://socket.io/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Introduction to WebSockets",
+                "url": "https://www.tutorialspoint.com/websockets/index.htm",
+                "type": "Article"
+            },
+            {
+                "title": "@video@A Beginners Guide to WebSockets",
+                "url": "https://www.youtube.com/watch?v=8ARodQ4Wlf4",
+                "type": "Video"
+            },
+            {
+                "title": "@video@How Web Sockets Work",
+                "url": "https://www.youtube.com/watch?v=G0_e02DdH7I",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Server Sent Events",
+        "node_id": "RUSdlokJUcEYbCvq5FJBJ",
+        "resources": [
+            {
+                "title": "@article@Server Sent Events - MDN",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Server-Sent Events | Postman Level Up",
+                "url": "https://www.youtube.com/watch?v=KrE044J8jEQ&t=1s",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Nginx",
+        "node_id": "z5AdThp9ByulmM9uekgm-",
+        "resources": [
+            {
+                "title": "@official@Nginx Website",
+                "url": "https://nginx.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@NGINX Explained in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=JKxlsvZXG7c",
+                "type": "Video"
+            },
+            {
+                "title": "@video@NGINX Tutorial for Beginners",
+                "url": "https://www.youtube.com/watch?v=9t9Mp0BGnyI",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Nginx",
+                "url": "https://app.daily.dev/tags/nginx?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Caddy",
+        "node_id": "Op-PSPNoyj6Ss9CS09AXh",
+        "resources": [
+            {
+                "title": "@official@Caddy Server",
+                "url": "https://caddyserver.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@opensource@caddyserver/caddy - Caddy on GitHub",
+                "url": "https://github.com/caddyserver/caddy",
+                "type": "Article"
+            },
+            {
+                "title": "@video@How to Make a Simple Caddy 2 Website",
+                "url": "https://www.youtube.com/watch?v=WgUV_BlHvj0",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Apache",
+        "node_id": "jjjonHTHHo-NiAf6p9xPv",
+        "resources": [
+            {
+                "title": "@official@Apache Server",
+                "url": "https://httpd.apache.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Apache Server Documentation",
+                "url": "https://httpd.apache.org/docs/2.4/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Apache Web Server?",
+                "url": "https://www.youtube.com/watch?v=kaaenHXO4t4",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Apache vs NGINX",
+                "url": "https://www.youtube.com/watch?v=9nyiY-psbMs",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Apache",
+                "url": "https://app.daily.dev/tags/apache?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "MS IIS",
+        "node_id": "0NJDgfe6eMa7qPUOI6Eya",
+        "resources": [
+            {
+                "title": "ASP.NET",
+                "url": "http://ASP.NET",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Microsoft -IIS",
+                "url": "https://www.iis.net/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Learn Windows Web Server IIS",
+                "url": "https://www.youtube.com/watch?v=1VdxPWwtISA",
+                "type": "Video"
+            },
+            {
+                "title": "@video@What is IIS?",
+                "url": "https://www.youtube.com/watch?v=hPWSqEXOjQY",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about .NET",
+                "url": "https://app.daily.dev/tags/.net?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Web Servers",
+        "node_id": "fekyMpEnaGqjh1Cu4Nyc4",
+        "resources": [
+            {
+                "title": "@article@What is a Web Server? - Mozilla",
+                "url": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is a Web Server?",
+                "url": "https://www.hostinger.co.uk/tutorials/what-is-a-web-server",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Web Server Concepts and Examples",
+                "url": "https://youtu.be/9J1nJOivdyw",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Building For Scale",
+        "node_id": "SHmbcMRsc3SygEDksJQBD",
+        "resources": [
+            {
+                "title": "@article@Scalable Architecture: A Definition and How-To Guide",
+                "url": "https://www.sentinelone.com/blog/scalable-architecture/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Scaling Distributed Systems - Software Architecture Introduction",
+                "url": "https://www.youtube.com/watch?v=gxfERVP18-g",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Redis",
+        "node_id": "g8GjkJAhvnSxXTZks0V1g",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated Redis Roadmap",
+                "url": "https://roadmap.sh/redis",
+                "type": "Article"
+            },
+            {
+                "title": "@course@Redis Crash Course",
+                "url": "https://www.youtube.com/watch?v=XCsS_NVAa1g",
+                "type": "Video"
+            },
+            {
+                "title": "@official@Redis",
+                "url": "https://redis.io/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Redis Documentation",
+                "url": "https://redis.io/docs/latest/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Redis Data Types Explained",
+                "url": "https://redis.io/docs/data-types/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Redis in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=G1rOthIU-uo",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Redis Tutorial for Beginners",
+                "url": "https://www.youtube.com/watch?v=jgpVdJB2sKQ",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Redis",
+                "url": "https://app.daily.dev/tags/redis?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Memcached",
+        "node_id": "xPvVwGQw28uMeLYIWn8yn",
+        "resources": [
+            {
+                "title": "@opensource@memcached/memcached",
+                "url": "https://github.com/memcached/memcached#readme",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Memcached Tutorial",
+                "url": "https://www.tutorialspoint.com/memcached/index.htm",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Redis vs Memcached",
+                "url": "https://www.youtube.com/watch?v=Gyy1SiE8avE",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "MongoDB",
+        "node_id": "28U6q_X-NTYf7OSKHjoWH",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated MongoDB Roadmap",
+                "url": "https://roadmap.sh/mongodb",
+                "type": "Article"
+            },
+            {
+                "title": "@official@MongoDB Website",
+                "url": "https://www.mongodb.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Learning Path for MongoDB Developers",
+                "url": "https://learn.mongodb.com/catalog",
+                "type": "Article"
+            },
+            {
+                "title": "@article@MongoDB Online Sandbox",
+                "url": "https://mongoplayground.net/",
+                "type": "Article"
+            },
+            {
+                "title": "@feed@daily.dev MongoDB Feed",
+                "url": "https://app.daily.dev/tags/mongodb",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "CouchDB",
+        "node_id": "qOlNzZ7U8LhIGukb67n7U",
+        "resources": [
+            {
+                "title": "@official@CouchDB",
+                "url": "https://couchdb.apache.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@CouchDB Documentation",
+                "url": "https://docs.couchdb.org/en/stable/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is CouchDB?",
+                "url": "https://www.youtube.com/watch?v=Mru4sHzIfSA",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about CouchDB",
+                "url": "https://app.daily.dev/tags/couchdb?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Neo4j",
+        "node_id": "BTNJfWemFKEeNeTyENXui",
+        "resources": [
+            {
+                "title": "@official@Neo4j Website",
+                "url": "https://neo4j.com",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Neo4j in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=T6L9EoBy8Zk",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Neo4j Course for Beginners",
+                "url": "https://www.youtube.com/watch?v=_IgbB24scLI",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Backend Development",
+                "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Graceful Degradation",
+        "node_id": "G9AI_i3MkUE1BsO3_-PH7",
+        "resources": [
+            {
+                "title": "@article@What is Graceful Degradation & Why Does it Matter?",
+                "url": "https://blog.hubspot.com/website/graceful-degradation",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Four Considerations When Designing Systems For Graceful Degradation",
+                "url": "https://newrelic.com/blog/best-practices/design-software-for-graceful-degradation",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Graceful Degradation - Georgia Tech",
+                "url": "https://www.youtube.com/watch?v=Tk7e0LMsAlI",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Throttling",
+        "node_id": "qAu-Y4KI2Z_y-EqiG86cR",
+        "resources": [
+            {
+                "title": "@article@Throttling - AWS Well-Architected Framework",
+                "url": "https://docs.aws.amazon.com/wellarchitected/2022-03-31/framework/rel_mitigate_interaction_failure_throttle_requests.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Throttling vs Debouncing",
+                "url": "https://www.youtube.com/watch?v=tJhA0DrH5co",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Backpressure",
+        "node_id": "JansCqGDyXecQkD1K7E7e",
+        "resources": [
+            {
+                "title": "@article@Awesome Architecture: Backpressure",
+                "url": "https://awesome-architecture.com/back-pressure/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Backpressure explained \u2014 the flow of data through software",
+                "url": "https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Handling Backpressure in Node.js Streams",
+                "url": "https://nodejs.org/en/docs/guides/backpressuring-in-streams",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Back Pressure",
+                "url": "https://www.youtube.com/watch?v=viTGm_cV7lE",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Backpressure in Reactive Systems Explained",
+                "url": "https://www.youtube.com/watch?v=Yb5OzHv-E6s",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Loadshifting",
+        "node_id": "HoQdX7a4SnkFRU4RPQ-D5",
+        "resources": [
+            {
+                "title": "@article@Load Shifting",
+                "url": "https://en.wikipedia.org/wiki/Load_shifting",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Load Shifting 101",
+                "url": "https://www.youtube.com/watch?v=DOyMJEdk5aE",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Circuit Breaker",
+        "node_id": "spkiQTPvXY4qrhhVUkoPV",
+        "resources": [
+            {
+                "title": "@official@Circuit Breaker - Azure Architecture Patterns",
+                "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker",
+                "type": "Article"
+            },
+            {
+                "title": "@opensource@Resilience4j - Circuit Breaker Library for Java",
+                "url": "https://github.com/resilience4j/resilience4j",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Circuit Breaker - AWS Well-Architected Framework",
+                "url": "https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/rel_mitigate_interaction_failure_graceful_degradation.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@The Circuit Breaker Pattern",
+                "url": "https://aerospike.com/blog/circuit-breaker-pattern/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is the Circuit Breaker Pattern?",
+                "url": "https://www.youtube.com/watch?v=ADHcBxEXvFA",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Back to Basics: Static Stability Using a Circuit Breaker Pattern",
+                "url": "https://www.youtube.com/watch?v=gy1RITZ7N7s",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Migration Strategies",
+        "node_id": "f7iWBkC0X7yyCoP_YubVd",
+        "resources": [
+            {
+                "title": "@article@Databases as a Challenge for Continuous Delivery",
+                "url": "https://phauer.com/2015/databases-challenge-continuous-delivery/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@AWS Cloud Migration Strategies",
+                "url": "https://www.youtube.com/watch?v=9ziB82V7qVM",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Types of Scaling",
+        "node_id": "osQlGGy38xMcKLtgZtWaZ",
+        "resources": [
+            {
+                "title": "@article@Horizontal vs Vertical Scaling",
+                "url": "https://touchstonesecurity.com/horizontal-vs-vertical-scaling-what-you-need-to-know/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Vertical Vs Horizontal Scaling: Key Differences You Should Know",
+                "url": "https://www.youtube.com/watch?v=dvRFHG2-uYs",
+                "type": "Video"
+            },
+            {
+                "title": "@video@System Design 101",
+                "url": "https://www.youtube.com/watch?v=Y-Gl4HEyeUQ",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Instrumentation",
+        "node_id": "4X-sbqpP0NDhM99bKdqIa",
+        "resources": [
+            {
+                "title": "@article@What is Instrumentation?",
+                "url": "https://en.wikipedia.org/wiki/Instrumentation_%28computer_programming%29",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is Monitoring?",
+                "url": "https://www.yottaa.com/performance-monitoring-backend-vs-front-end-solutions/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is Telemetry?",
+                "url": "https://www.sumologic.com/insight/what-is-telemetry/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Observability vs. APM vs. Monitoring",
+                "url": "https://www.youtube.com/watch?v=CAQ_a2-9UOI",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Monitoring",
+                "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Monitoring",
+        "node_id": "QvMEEsXh0-rzn5hDGcmEv",
+        "resources": [
+            {
+                "title": "@official@Prometheus Documentation",
+                "url": "https://prometheus.io/docs/introduction/overview/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Grafana Documentation",
+                "url": "https://grafana.com/docs/grafana/latest/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Top Monitoring Tools",
+                "url": "https://thectoclub.com/tools/best-application-monitoring-software/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Monitoring Distributed Systems - Google SRE Book",
+                "url": "https://sre.google/sre-book/monitoring-distributed-systems/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Prometheus and Grafana Tutorial for Beginners",
+                "url": "https://www.youtube.com/watch?v=9TJx7QTrTyo",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Grafana Explained in 5 Minutes",
+                "url": "https://www.youtube.com/watch?v=lILY8eSspEo",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Monitoring",
+                "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Telemetry",
+        "node_id": "neVRtPjIHP_VG7lHwfah0",
+        "resources": [
+            {
+                "title": "@course@OpenTelemetry Course - Understand Software Performance",
+                "url": "https://www.youtube.com/watch?v=r8UvWSX3KA8",
+                "type": "Video"
+            },
+            {
+                "title": "@article@What is telemetry and how does it work?",
+                "url": "https://www.techtarget.com/whatis/definition/telemetry",
+                "type": "Article"
+            },
+            {
+                "title": "@feed@daily.dev OpenTelemetry feed",
+                "url": "https://app.daily.dev/tags/opentelemetry",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "MD5",
+        "node_id": "jWwA6yX4Zjx-r_KpDaD3c",
+        "resources": [
+            {
+                "title": "@article@Wikipedia - MD5",
+                "url": "https://en.wikipedia.org/wiki/MD5",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is MD5?",
+                "url": "https://www.techtarget.com/searchsecurity/definition/MD5",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Why is MD5 not safe?",
+                "url": "https://infosecscout.com/why-md5-is-not-safe/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@How the MD5 hash function works",
+                "url": "https://www.youtube.com/watch?v=5MiMK45gkTY",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "SHA",
+        "node_id": "JVN38r5jENoteia3YeIQ3",
+        "resources": [
+            {
+                "title": "@article@What is SHA?",
+                "url": "https://www.encryptionconsulting.com/education-center/what-is-sha/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@SHA: Secure Hashing Algorithm",
+                "url": "https://www.youtube.com/watch?v=DMtFhACPnTY",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "scrypt",
+        "node_id": "kGTALrvCpxyVCXHRmkI7s",
+        "resources": [
+            {
+                "title": "@official@sCrypt Website",
+                "url": "https://www.tarsnap.com/scrypt.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Wikipedia - scrypt",
+                "url": "https://en.wikipedia.org/wiki/Scrypt",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "bcrypt",
+        "node_id": "dlG1bVkDmjI3PEGpkm1xH",
+        "resources": [
+            {
+                "title": "@opensource@bcrypt for Node.js",
+                "url": "https://github.com/kelektiv/node.bcrypt.js",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Understanding bcrypt",
+                "url": "https://auth0.com/blog/hashing-in-action-understanding-bcrypt/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Password Hashing: Bcrypt, Scrypt and Argon2",
+                "url": "https://stytch.com/blog/argon2-vs-bcrypt-vs-scrypt/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Why you should use BCrypt to hash passwords",
+                "url": "https://www.freecodecamp.org/news/why-you-should-use-bcrypt-to-hash-passwords/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Bcrypt Explained",
+                "url": "https://www.youtube.com/watch?v=O6cmuiTBZVs",
+                "type": "Video"
+            },
+            {
+                "title": "@video@How To Store A Password",
+                "url": "https://www.youtube.com/watch?v=8ZtInClXe1Q",
+                "type": "Video"
+            },
+            {
+                "title": "@video@bcrypt explained",
+                "url": "https://www.youtube.com/watch?v=AzA_LTDoFqY",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "HTTPS",
+        "node_id": "x-WBJjBd8u93ym5gtxGsR",
+        "resources": [
+            {
+                "title": "@article@What is HTTPS?",
+                "url": "https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Why HTTPS Matters",
+                "url": "https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https",
+                "type": "Article"
+            },
+            {
+                "title": "@article@How HTTPS works (comic)",
+                "url": "https://howhttps.works/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@HTTPS explained with carrier pigeons",
+                "url": "https://baida.dev/articles/https-explained-with-carrier-pigeons",
+                "type": "Article"
+            },
+            {
+                "title": "@video@HTTP vs HTTPS",
+                "url": "https://www.youtube.com/watch?v=nOmT_5hqgPk",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "OWASP Risks",
+        "node_id": "AAgciyxuDvS2B_c6FRMvT",
+        "resources": [
+            {
+                "title": "@official@OWASP Website",
+                "url": "https://owasp.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@opensource@OWASP Application Security Verification Standard",
+                "url": "https://github.com/OWASP/ASVS",
+                "type": "Article"
+            },
+            {
+                "title": "@article@OWASP Top 10 Security Risks",
+                "url": "https://cheatsheetseries.owasp.org/IndexTopTen.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@OWASP Cheatsheets",
+                "url": "https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "SSL/TLS",
+        "node_id": "0v3OsaghJEGHeXX0c5kqn",
+        "resources": [
+            {
+                "title": "@article@Wikipedia - SSL/TLS",
+                "url": "https://en.wikipedia.org/wiki/Transport_Layer_Security",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Cloudflare - What is SSL?",
+                "url": "https://www.cloudflare.com/learning/ssl/what-is-ssl/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@SSL, TLS, HTTPS Explained",
+                "url": "https://www.youtube.com/watch?v=j9QmMEWmcfo",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "CORS",
+        "node_id": "LU6WUbkWKbPM1rb2_gEqa",
+        "resources": [
+            {
+                "title": "@article@Cross-Origin Resource Sharing (CORS)",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Understanding CORS",
+                "url": "https://rbika.com/blog/understanding-cors",
+                "type": "Article"
+            },
+            {
+                "title": "@video@CORS in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=4KHiSt0oLJ0",
+                "type": "Video"
+            },
+            {
+                "title": "@video@CORS in 6 minutes",
+                "url": "https://www.youtube.com/watch?v=PNtFSVU-YTI",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Server Security",
+        "node_id": "TZ0BWOENPv6pQm8qYB8Ow",
+        "resources": [
+            {
+                "title": "@article@What is a hardened server?",
+                "url": "https://www.sophos.com/en-us/cybersecurity-explained/what-is-server-hardening",
+                "type": "Article"
+            },
+            {
+                "title": "@video@10 Tips for Hardening your Linux Servers",
+                "url": "https://www.youtube.com/watch?v=Jnxx_IAC0G4",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "CSP",
+        "node_id": "HgQBde1zLUFtlwB66PR6_",
+        "resources": [
+            {
+                "title": "@article@MDN \u2014 Content Security Policy (CSP)",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Google Devs \u2014 Content Security Policy (CSP)",
+                "url": "https://developers.google.com/web/fundamentals/security/csp",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Content Security Policy Explained",
+                "url": "https://www.youtube.com/watch?v=-LjPRzFR5f0",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Security",
+                "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "How does the internet work?",
+        "node_id": "yCnn-NfSxIybUQ2iTuUGq",
+        "resources": [
+            {
+                "title": "@article@How does the Internet Work?",
+                "url": "https://cs.fyi/guide/how-does-internet-work",
+                "type": "Article"
+            },
+            {
+                "title": "@article@The Internet Explained",
+                "url": "https://www.vox.com/2014/6/16/18076282/the-internet",
+                "type": "Article"
+            },
+            {
+                "title": "@article@How Does the Internet Work?",
+                "url": "http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm",
+                "type": "Article"
+            },
+            {
+                "title": "@video@How does the Internet work?",
+                "url": "https://www.youtube.com/watch?v=x3c1ih2NJEg",
+                "type": "Video"
+            },
+            {
+                "title": "@video@How does the internet work? (Full Course)",
+                "url": "https://www.youtube.com/watch?v=zN8YNNHcaZc",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "What is HTTP?",
+        "node_id": "R12sArWVpbIs_PHxBqVaR",
+        "resources": [
+            {
+                "title": "@course@Full HTTP Networking Course",
+                "url": "https://www.youtube.com/watch?v=2JYT5f2isg4",
+                "type": "Video"
+            },
+            {
+                "title": "@article@What is HTTP?",
+                "url": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Overview of HTTP",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview",
+                "type": "Article"
+            },
+            {
+                "title": "@article@HTTP/3 From A To Z: Core Concepts",
+                "url": "https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Every thing you need to know about HTTP",
+                "url": "https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@HTTP/1 to HTTP/2 to HTTP/3",
+                "url": "https://www.youtube.com/watch?v=a-sBfyiXysI",
+                "type": "Video"
+            },
+            {
+                "title": "@video@SSL, TLS, HTTPS Explained",
+                "url": "https://www.youtube.com/watch?v=j9QmMEWmcfo",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "What is Domain Name?",
+        "node_id": "ZhSuu2VArnzPDp6dPQQSC",
+        "resources": [
+            {
+                "title": "@article@What is a Domain Name?",
+                "url": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is a Domain Name? | Domain name vs. URL",
+                "url": "https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@A Beginners Guide to How Domain Names Work",
+                "url": "https://www.youtube.com/watch?v=Y4cRx19nhJk",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Everything You Need to Know About Domain Names",
+                "url": "https://www.youtube.com/watch?v=qO5qcQgiNX4",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "What is hosting?",
+        "node_id": "aqMaEY8gkKMikiqleV5EP",
+        "resources": [
+            {
+                "title": "@article@What is the difference between Webpage, Website, Web server, and search engine?",
+                "url": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is a web server?",
+                "url": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Web Hosting and How Does It Work?",
+                "url": "https://www.youtube.com/watch?v=H8oAvyqQwew",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Different Types of Web Hosting Explained",
+                "url": "https://www.youtube.com/watch?v=AXVZYzw8geg",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Where to Host a Fullstack Project on a Budget",
+                "url": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "DNS and how it works?",
+        "node_id": "hkxw9jPGYphmjhTjw8766",
+        "resources": [
+            {
+                "title": "@article@Everything You Need to Know About DNS",
+                "url": "https://cs.fyi/guide/everything-you-need-to-know-about-dns",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is DNS?",
+                "url": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@How DNS works (comic)",
+                "url": "https://howdns.works/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@DNS and How does it Work?",
+                "url": "https://www.youtube.com/watch?v=Wj0od2ag5sk",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about DNS",
+                "url": "https://app.daily.dev/tags/dns?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Browsers and how they work?",
+        "node_id": "P82WFaTPgQEPNp5IIuZ1Y",
+        "resources": [
+            {
+                "title": "@article@How Browsers Work",
+                "url": "https://www.ramotion.com/blog/what-is-web-browser/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Populating the Page: How Browsers Work",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work",
+                "type": "Article"
+            },
+            {
+                "title": "@video@How Do Web Browsers Work?",
+                "url": "https://www.youtube.com/watch?v=5rLFYtXHo9s",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Browsers",
+                "url": "https://app.daily.dev/tags/browsers?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Authentication",
+        "node_id": "PY9G7KQy8bF6eIdr1ydHf",
+        "resources": [
+            {
+                "title": "@article@Basic Authentication",
+                "url": "https://roadmap.sh/guides/basic-authentication",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Session Based Authentication",
+                "url": "https://roadmap.sh/guides/session-based-authentication",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Token Based Authentication",
+                "url": "https://roadmap.sh/guides/token-authentication",
+                "type": "Article"
+            },
+            {
+                "title": "@article@JWT Authentication",
+                "url": "https://roadmap.sh/guides/jwt-authentication",
+                "type": "Article"
+            },
+            {
+                "title": "@article@OAuth - Open Authorization",
+                "url": "https://roadmap.sh/guides/oauth",
+                "type": "Article"
+            },
+            {
+                "title": "@article@SSO - Single Sign On",
+                "url": "https://roadmap.sh/guides/sso",
+                "type": "Article"
+            },
+            {
+                "title": "@feed@Explore top posts about Authentication",
+                "url": "https://app.daily.dev/tags/authentication?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "JWT",
+        "node_id": "UxS_mzVUjLigEwKrXnEeB",
+        "resources": [
+            {
+                "title": "@official@jwt.io Website",
+                "url": "https://jwt.io/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@RFC 7519 - JSON Web Token Standard",
+                "url": "https://datatracker.ietf.org/doc/html/rfc7519",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is JWT?",
+                "url": "https://www.akana.com/blog/what-is-jwt",
+                "type": "Article"
+            },
+            {
+                "title": "@article@JWT Security Best Practices",
+                "url": "https://curity.io/resources/learn/jwt-best-practices/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What Is JWT and Why Should You Use JWT",
+                "url": "https://www.youtube.com/watch?v=7Q17ubqLfaM",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Node.js JWT Authentication Tutorial",
+                "url": "https://www.youtube.com/watch?v=mbsmsi7l3r4",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about JWT",
+                "url": "https://app.daily.dev/tags/jwt?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Basic Authentication",
+        "node_id": "yRiJgjjv2s1uV9vgo3n8m",
+        "resources": [
+            {
+                "title": "@article@HTTP Basic Authentication",
+                "url": "https://roadmap.sh/guides/http-basic-authentication",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Basic Authentication in 5 minutes",
+                "url": "https://www.youtube.com/watch?v=rhi1eIjSbvk",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Illustrated HTTP Basic Authentication",
+                "url": "https://www.youtube.com/watch?v=mwccHwUn7Gc",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Authentication",
+                "url": "https://app.daily.dev/tags/authentication?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Token Authentication",
+        "node_id": "0rGj7FThLJZouSQUhnqGW",
+        "resources": [
+            {
+                "title": "@article@Token Based Authentication",
+                "url": "https://roadmap.sh/guides/token-authentication",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What Is Token-Based Authentication?",
+                "url": "https://www.okta.com/identity-101/what-is-token-based-authentication/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Why is JWT popular?",
+                "url": "https://www.youtube.com/watch?v=P2CPd9ynFLg",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Authentication",
+                "url": "https://app.daily.dev/tags/authentication?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "OAuth",
+        "node_id": "vp-muizdICcmU0gN8zmkS",
+        "resources": [
+            {
+                "title": "@article@Okta - What the Heck is OAuth",
+                "url": "https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth",
+                "type": "Article"
+            },
+            {
+                "title": "@article@DigitalOcean - An Introduction to OAuth 2",
+                "url": "https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2",
+                "type": "Article"
+            },
+            {
+                "title": "@video@OAuth 2 Explained In Simple Terms",
+                "url": "https://www.youtube.com/watch?v=ZV5yTm4pT8g",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about OAuth",
+                "url": "https://app.daily.dev/tags/oauth?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Cookie Based Auth",
+        "node_id": "ffzsh8_5yRq85trFt9Xhk",
+        "resources": [
+            {
+                "title": "@official@HTTP Cookies - MDN Web Docs",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies",
+                "type": "Article"
+            },
+            {
+                "title": "@article@How does cookie based authentication work?",
+                "url": "https://stackoverflow.com/questions/17769011/how-does-cookie-based-authentication-work",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Session vs Token Authentication",
+                "url": "https://www.section.io/engineering-education/token-based-vs-session-based-authentication/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Cookies vs LocalStorage vs SessionStorage",
+                "url": "https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Session vs Token Authentication in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=UBUNrFtufWo",
+                "type": "Video"
+            },
+            {
+                "title": "@video@How do cookies work?",
+                "url": "https://www.youtube.com/watch?v=rdVPflECed8",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "OpenID",
+        "node_id": "z3EJBpgGm0_Uj3ymhypbX",
+        "resources": [
+            {
+                "title": "@official@OpenID Website",
+                "url": "https://openid.net/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@OpenID Connect Protocol",
+                "url": "https://auth0.com/docs/authenticate/protocols/openid-connect-protocol",
+                "type": "Article"
+            },
+            {
+                "title": "@video@An Illustrated Guide to OAuth and OpenID Connect",
+                "url": "https://www.youtube.com/watch?v=t18YB3xDfXI",
+                "type": "Video"
+            },
+            {
+                "title": "@video@OAuth 2.0 and OpenID Connect (in plain English)",
+                "url": "https://www.youtube.com/watch?v=996OiexHze0",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Authentication",
+                "url": "https://app.daily.dev/tags/authentication?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "SAML",
+        "node_id": "UCHtaePVxS-0kpqlYxbfC",
+        "resources": [
+            {
+                "title": "@article@SAML Explained in Plain English",
+                "url": "https://www.onelogin.com/learn/saml",
+                "type": "Article"
+            },
+            {
+                "title": "@video@How SAML Authentication Works",
+                "url": "https://www.youtube.com/watch?v=VzRnb9u8T1A",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Elasticsearch",
+        "node_id": "NulaE1isWqn-feYHg4YQT",
+        "resources": [
+            {
+                "title": "@roadmap@Visit the Dedicated Elasticsearch Roadmap",
+                "url": "https://roadmap.sh/elasticsearch",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Elasticsearch Website",
+                "url": "https://www.elastic.co/elasticsearch/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Elasticsearch Documentation",
+                "url": "https://www.elastic.co/guide/index.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Elasticsearch",
+                "url": "https://www.youtube.com/watch?v=ZP0NmfyfsoM",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about ELK",
+                "url": "https://app.daily.dev/tags/elk?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Solr",
+        "node_id": "iN_1EuIwCx_7lRBw1Io4U",
+        "resources": [
+            {
+                "title": "@opensource@Solr on GitHub",
+                "url": "https://github.com/apache/solr",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Solr Website",
+                "url": "https://solr.apache.org/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Solr Documentation",
+                "url": "https://solr.apache.org/resources.html#documentation",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Apache Solr vs Elasticsearch Differences",
+                "url": "https://www.youtube.com/watch?v=MMWBdSdbu5k",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Real-Time Data",
+        "node_id": "5XGvep2qoti31bsyqNzrU",
+        "resources": [
+            {
+                "title": "@article@Real-time Data - Wiki",
+                "url": "https://en.wikipedia.org/wiki/Real-time_data",
+                "type": "Article"
+            },
+            {
+                "title": "@article@What is Real-time Data?",
+                "url": "https://www.qlik.com/us/streaming-data/real-time-data",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Long Polling",
+        "node_id": "osvajAJlwGI3XnX0fE-kA",
+        "resources": [
+            {
+                "title": "@article@Long Polling",
+                "url": "https://javascript.info/long-polling",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is Long Polling?",
+                "url": "https://www.youtube.com/watch?v=LD0_-uIsnOE",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Short Polling",
+        "node_id": "Tt7yr-ChHncJG0Ge1f0Xk",
+        "resources": [
+            {
+                "title": "@article@Amazon SQS Short and Long Polling",
+                "url": "https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long-polling.html",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Short Polling vs Long Polling vs WebSockets",
+                "url": "https://www.youtube.com/watch?v=ZBM28ZPlin8",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Redis",
+        "node_id": "M0iaSSdVPWaCUpyTG50Vf",
+        "resources": [
+            {
+                "title": "@roadmap@Visit Dedicated Redis Roadmap",
+                "url": "https://roadmap.sh/redis",
+                "type": "Article"
+            },
+            {
+                "title": "@course@Redis Crash Course",
+                "url": "https://www.youtube.com/watch?v=XCsS_NVAa1g",
+                "type": "Video"
+            },
+            {
+                "title": "@official@Redis",
+                "url": "https://redis.io/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Redis Documentation",
+                "url": "https://redis.io/docs/latest/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Redis Data Types Explained",
+                "url": "https://redis.io/docs/data-types/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Redis in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=G1rOthIU-uo",
+                "type": "Video"
+            },
+            {
+                "title": "@video@Redis Tutorial for Beginners",
+                "url": "https://www.youtube.com/watch?v=jgpVdJB2sKQ",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Redis",
+                "url": "https://app.daily.dev/tags/redis?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "DynamoDB",
+        "node_id": "dwfEHInbX2eFiafM-nRMX",
+        "resources": [
+            {
+                "title": "@official@AWS DynamoDB",
+                "url": "https://aws.amazon.com/dynamodb/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@AWS DynamoDB Tutorial For Beginners",
+                "url": "https://www.youtube.com/watch?v=2k2GINpO308",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@daily.dev AWS DynamoDB Feed",
+                "url": "https://app.daily.dev/tags/aws-dynamodb",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Firebase",
+        "node_id": "RyJFLLGieJ8Xjt-DlIayM",
+        "resources": [
+            {
+                "title": "@course@The Ultimate Guide to Firebase",
+                "url": "https://fireship.io/lessons/the-ultimate-beginners-guide-to-firebase/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Firebase",
+                "url": "https://firebase.google.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@Firebase Documentation",
+                "url": "https://firebase.google.com/docs",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Firebase in 100 seconds",
+                "url": "https://www.youtube.com/watch?v=vAoB4VbhRzM",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "RethinkDB",
+        "node_id": "5T0ljwlHL0545ICCeehcQ",
+        "resources": [
+            {
+                "title": "@course@RethinkDB Crash Course",
+                "url": "https://www.youtube.com/watch?v=pW3PFtchHDc",
+                "type": "Video"
+            },
+            {
+                "title": "@official@RethinkDB Website",
+                "url": "https://rethinkdb.com/",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "SQLite",
+        "node_id": "kdulE3Z_BdbtRmq6T2KmR",
+        "resources": [
+            {
+                "title": "@official@SQLite",
+                "url": "https://www.sqlite.org/index.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@SQLite Tutorial",
+                "url": "https://www.sqlitetutorial.net/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@SQLite Introduction",
+                "url": "https://www.youtube.com/watch?v=8Xyn8R9eKB8",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about SQLite",
+                "url": "https://app.daily.dev/tags/sqlite?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Influx DB",
+        "node_id": "XbM4TDImSH-56NsITjyHK",
+        "resources": [
+            {
+                "title": "@official@InfluxDB Website",
+                "url": "https://www.influxdata.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@official@InfluxDB Documentation",
+                "url": "https://docs.influxdata.com/influxdb/cloud/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Time series database",
+                "url": "https://www.influxdata.com/time-series-database/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Introduction to InfluxDB - DigitalOcean",
+                "url": "https://www.digitalocean.com/community/tutorials/how-to-monitor-system-metrics-with-the-tick-stack-on-centos-7",
+                "type": "Article"
+            },
+            {
+                "title": "@video@InfluxDB for Beginners - Getting Started",
+                "url": "https://www.youtube.com/watch?v=Vq4cDIdz_M8",
+                "type": "Video"
+            },
+            {
+                "title": "@video@The Basics of Time Series Data",
+                "url": "https://www.youtube.com/watch?v=wBWTj-1XiRU",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Backend Development",
+                "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "TimeScale",
+        "node_id": "WiAK70I0z-_bzbWNwiHUd",
+        "resources": [
+            {
+                "title": "@official@Timescale Website",
+                "url": "https://www.timescale.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Tutorial - TimeScaleDB Explained in 100 Seconds",
+                "url": "https://www.youtube.com/watch?v=69Tzh_0lHJ8",
+                "type": "Video"
+            },
+            {
+                "title": "@video@What is Time Series Data?",
+                "url": "https://www.youtube.com/watch?v=Se5ipte9DMY",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Cassandra",
+        "node_id": "gT6-z2vhdIQDzmR2K1g1U",
+        "resources": [
+            {
+                "title": "@official@Apache Cassandra",
+                "url": "https://cassandra.apache.org/_/index.html",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Cassandra - Quick Guide",
+                "url": "https://www.tutorialspoint.com/cassandra/cassandra_quick_guide.htm",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Apache Cassandra - Course for Beginners",
+                "url": "https://www.youtube.com/watch?v=J-cSy5MeMOA",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Backend Development",
+                "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "Base",
+        "node_id": "QZwTLOvjUTaSb_9deuxsR",
+        "resources": [
+            {
+                "title": "@official@Base Database Documentation",
+                "url": "https://docs.oracle.com/en-us/iaas/base-database/index.html",
+                "type": "Article"
+            }
+        ]
+    },
+    {
+        "topic": "AWS Neptune",
+        "node_id": "5xy66yQrz1P1w7n6PcAFq",
+        "resources": [
+            {
+                "title": "@official@AWS Neptune",
+                "url": "https://aws.amazon.com/neptune/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Setting Up Amazon Neptune Graph Database",
+                "url": "https://cliffordedsouza.medium.com/setting-up-amazon-neptune-graph-database-2b73512a7388",
+                "type": "Article"
+            },
+            {
+                "title": "@video@Getting Started with Neptune Serverless",
+                "url": "https://www.youtube.com/watch?v=b04-jjM9t4g",
+                "type": "Video"
+            }
+        ]
+    },
+    {
+        "topic": "Observability",
+        "node_id": "Z01E67D6KjrShvQCHjGR7",
+        "resources": [
+            {
+                "title": "@article@DataDog Docs",
+                "url": "https://docs.datadoghq.com/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@AWS CloudWatch Docs",
+                "url": "https://aws.amazon.com/cloudwatch/getting-started/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Sentry Docs",
+                "url": "https://docs.sentry.io/",
+                "type": "Article"
+            },
+            {
+                "title": "@article@Observability and Instrumentation: What They Are and Why They Matter",
+                "url": "https://newrelic.com/blog/best-practices/observability-instrumentation",
+                "type": "Article"
+            },
+            {
+                "title": "@video@What is observability?",
+                "url": "https://www.youtube.com/watch?v=--17See0KHs",
+                "type": "Video"
+            },
+            {
+                "title": "@feed@Explore top posts about Observability",
+                "url": "https://app.daily.dev/tags/observability?ref=roadmapsh",
+                "type": "Article"
+            }
+        ]
+    }
+]
