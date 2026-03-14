@@ -33,7 +33,7 @@ roadmap.sh GitHub repo
 
 ```bash
 git clone https://github.com/WaseemAldemeri/roadmap-to-notebooklm.git
-cd roadmap-extractor
+cd roadmap-to-notebooklm
 ```
 
 **2. Create a virtual environment and install dependencies**
