@@ -2,6 +2,8 @@
 
 Automatically populate [Google NotebookLM](https://notebooklm.google.com) with learning resources from any [roadmap.sh](https://roadmap.sh) roadmap.
 
+https://github.com/user-attachments/assets/c551057a-2bbd-459b-a4fb-4d5a7e8e4052
+
 The pipeline extracts every topic from a roadmap, finds the community-curated YouTube videos and articles linked to each one, creates a dedicated NotebookLM notebook per topic, and uploads all the sources into it. Once your notebooks are loaded, a small CLI lets you fuzzy-search through them and fire off study material generation (podcasts, flashcards, quizzes, etc.) in bulk — without copy-pasting prompts everywhere.
 
 Notebook creation and source ingestion is automated using [notebooklm-py](https://github.com/nazrulworld/notebooklm-py), a community-built Python package for the NotebookLM API.
